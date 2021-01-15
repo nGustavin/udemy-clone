@@ -1,6 +1,7 @@
 import React from 'react';
 import {GlobalStyle} from './styles/globalStyles'
-import Header from './components/header'
+import Header from './components/header/Header'
+import LandingPromo from './components/header/LandingPromo';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <GlobalStyle />
       <div className="App">
         <Header/>
+        <LandingPromo/>
       </div>
     </>
   );

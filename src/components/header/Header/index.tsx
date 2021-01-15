@@ -2,7 +2,7 @@ import React from 'react';
 import { MdSearch, MdShoppingCart } from 'react-icons/md'
 
 import { Container } from './styles';
-import udemyLogo from '../../assets/images/logo-coral.svg'
+import udemyLogo from '../../../assets/images/logo-coral.svg'
 
 // logo da udemy,categories, input, udemy for business, teach on udemy,carrinho de compra, log in, sign up 
 
